@@ -1,0 +1,5 @@
+#backend folder
+backend/node_modules
+backend/storage/imgs/*
+
+#frontend folder
